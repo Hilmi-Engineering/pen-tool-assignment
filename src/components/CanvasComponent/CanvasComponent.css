@@ -1,0 +1,4 @@
+.canvas-container {
+    border: 2px solid #000; /* Adjust color and size as needed */
+    display: inline-block; /* Helps in managing the container's size based on its content */
+  }  
