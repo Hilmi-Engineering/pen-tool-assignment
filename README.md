@@ -15,7 +15,7 @@ Welcome to the Pen Tool Debugging and Enhancement assignment. The goal of this t
 2. **Clone the Repository**:
    - Once your private repository is created, clone it to your local machine:
      ```sh
-     git clone https://github.com/your-organization/your-repo-name.git
+     git clone https://github.com/Hilmi-Engineering/your-repo-name.git
      cd your-repo-name
      ```
 
